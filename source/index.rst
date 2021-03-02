@@ -13,9 +13,7 @@ Welcome!
 
 Welcome to Python Programming Fundamentals Second Edition by Kent D. Lee. This text, available from `Springer <http://www.amazon.com/Programming-Fundamentals-Undergraduate-Computer-Science/dp/1447166418/ref=sr_1_1?ie=UTF8&qid=1423423068&sr=8-1&keywords=python+kent+d+lee>`_, is an introductory computer programming text. The text is oriented towards students who have not taken any other programming course previously. However, it can be used by students with some programming skills in another language. If you would like to begin learning Python programming on your own, you can begin by installing Python and Wing IDE 101 on your computer. Then buy my book and begin working through the many practice exercises and examples in the text. The links to the two YouTube videos below show you how you can install Python and Wing IDE 101 on your computer.
 
-   * `Installing Python and Wing IDE 101 on Mac OS X <https://www.youtube.com/watch?v=jmjTAXbH-SA&index=1&list=PL1DE477438120C9EF>`_
-   * `Installing Python and Wing IDE 101 on Windows <https://www.youtube.com/watch?v=OrpavIGbkSw&index=2&list=PL1DE477438120C9EF>`_
-
+   * `Installing Python and Wing IDE 101 <https://www.youtube.com/watch?v=Kf-9sIryg_s>`_
 
 I hope you enjoy reading the text and learning to program a computer using Python! It's creative, fun, and the skills you will learn could provide you with access to a very fullfilling and rewarding career in Computer Science! Give it a try!
 
