@@ -14,10 +14,6 @@ ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) sou
 
 .PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest
 
-release:
-	rsync -rav --delete $(BUILDDIR)/html/ leekentd@knuth.luther.edu:public_html/IntroToComputing
-#	scp -r $(BUILDDIR)/html/* leekentd@knuth.luther.edu:public_html/PL
-
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
 	@echo "  html       to make standalone HTML files"

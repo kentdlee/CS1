@@ -165,14 +165,31 @@ There are two video lectures that go along with this chapter.
 Support Files
 ================
 
-    * The first sample program is a drawing application. The source code for the drawing program can be `downloaded here <_static/Draw.py>`_.
-    * The second example is a bouncing ball program and that code can be downloaded here. The bouncing ball program needs the `soccerball.gif <_static/soccerball.gif>`_ file to run. You might also like to make kitties bounce around, so `kitty.gif <_static/kitty.gif>`_ is also provided.
-    * Chapter 7 includes an exercise on developing an asteroids application. There are five lessons that will take you through developing this application. The five lessons below can be followed to implement the basic asteroids application. As part of the assignment in the text, you are to implement one more level to the application when level 1 is completed.
+    * The first sample program is a drawing application. The source code for the
+      drawing program can be `downloaded here <_static/Draw.py>`_.
 
-      * `Lesson 1 <http://knuth.luther.edu/~leekent/SamplingCS/lesson11.html>`_
-      * `Lesson 2 <http://knuth.luther.edu/~leekent/SamplingCS/lesson12.html>`_
-      * `Lesson 3 <http://knuth.luther.edu/~leekent/SamplingCS/lesson13.html>`_
-      * `Lesson 4 <http://knuth.luther.edu/~leekent/SamplingCS/lesson14.html>`_
-      * `Lesson 5 <http://knuth.luther.edu/~leekent/SamplingCS/lesson15.html>`_
+    * The second example is a bouncing ball program and that code can be
+      downloaded here. The bouncing ball program needs the `soccerball.gif
+      <_static/soccerball.gif>`_ file to run. You might also like to make
+      kitties bounce around, so `kitty.gif <_static/kitty.gif>`_ is also
+      provided.
 
-    * In addition to the exercises at the end of chapter 7 I have had students implement a `minesweeper game <http://cs.luther.edu/~leekent/IntroToComputing/minesweeper.html>`_. This web page provides a sample as a compiled Python program and provides students with directions for completing the application from the starter code that is provided to them.
+    * Chapter 7 includes an exercise on developing an asteroids application.
+      There are five lessons that will take you through developing this
+      application in some earlier materials called `Sampling CS
+      <https://kentdlee.github.io/SamplingCS/html/index.html>`_ The five
+      lessons below can be followed to implement the basic asteroids
+      application. As part of the assignment in the text, you are to
+      implement one more level to the application when level 1 is
+      completed. The five lessons for the Asteroids game start with lesson
+      11 and links to them can be found `at this location
+      <https://kentdlee.github.io/SamplingCS/html/learningpython.html>`_.
+
+
+    * In addition to the exercises at the end of chapter 7 I have had students
+      implement a minesweeper game in the past. The `Game Development with Python
+      <https://kentdlee.github.io/SCSI/build/html/index.html>`_ website
+      contains lessons for developing games in Python including the
+      minesweeper game (see lessons 14-18). These lessons will help guide
+      students through building their own minesweeper application.
+
